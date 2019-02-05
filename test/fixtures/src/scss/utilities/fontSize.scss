@@ -1,0 +1,5 @@
+@each $value in (xx-small, x-small, small, medium, large, x-large, xx-large) {
+  .u-#{string-camelize(fontSize + '-' + $value)} {
+    font-size: $value,
+  }
+}

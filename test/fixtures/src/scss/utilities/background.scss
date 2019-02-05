@@ -1,0 +1,8 @@
+@each $name, $value in (
+  primary: yellow,
+  secondary: peachpuff
+) {
+  .u-background#{string-capitalize($name)} {
+    background: $value;
+  }
+}

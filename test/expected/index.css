@@ -1,0 +1,35 @@
+.u-backgroundPrimary {
+  background: yellow;
+}
+
+.u-backgroundSecondary {
+  background: peachpuff;
+}
+
+.u-fontSizeXxSmall {
+  font-size: xx-small;
+}
+
+.u-fontSizeXSmall {
+  font-size: x-small;
+}
+
+.u-fontSizeSmall {
+  font-size: small;
+}
+
+.u-fontSizeMedium {
+  font-size: medium;
+}
+
+.u-fontSizeLarge {
+  font-size: large;
+}
+
+.u-fontSizeXLarge {
+  font-size: x-large;
+}
+
+.u-fontSizeXxLarge {
+  font-size: xx-large;
+}
